@@ -27,20 +27,20 @@ git clone <repository_url>
 
 cd <repository_folder/fake-news-detector>
 
-
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies using npm:
 
 npm install
 
-
 ### 3. Run the React App
+
 Once the dependencies are installed, start the React development server with:
 
 npm start
 
 ### 4. Interact with the App
+
 Enter a news headline or article text into the input box.
 Click on Analyze to get the prediction and explanation.
 View the Prediction, Confidence, Explanation, and the SHAP Plot.
